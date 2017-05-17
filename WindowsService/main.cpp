@@ -4,6 +4,6 @@
 
 void main(int argc, char** argv)
 {
-	MyService cntService;
-	cntService.RegisterService(argc, argv);
+	MyService myService;
+	myService.RegisterService(argc, argv);
 }
